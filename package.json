@@ -1,0 +1,16 @@
+{
+  "name": "operator-demo",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "tsx": "^4.9.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@regrapes/operator-cli": "^0.0.5",
+    "@requence/consumer": "latest",
+    "@requence/producer": "latest"
+  }
+}
